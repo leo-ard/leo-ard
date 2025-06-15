@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Look at my website: [oestoleary.com](oestoleary.com)!
+## website: [https://oestoleary.com](https://oestoleary.com)
